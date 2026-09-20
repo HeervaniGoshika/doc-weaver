@@ -185,9 +185,3 @@ Professional Word Document
 -   PDF export
 -   Web search integration
 -   Custom document templates
-
-------------------------------------------------------------------------
-
-# 📜 License
-
-This project is intended for educational and demonstration purposes.
